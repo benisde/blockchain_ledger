@@ -45,7 +45,7 @@ Validity of the blockchain
 
 <br>
 
-## Output
+## Terminal Output
 
 Interactive view from the terminal for the various steps executed in the Streamlit application to conduct financial trasactions to transfer money between senders and received and verify the integrity of the data in the ledger.
 
