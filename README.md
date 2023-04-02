@@ -42,3 +42,11 @@ Validity of the blockchain
 ![A screenshot of the result.](Images/Validation01.png)
 
 ![A screenshot of the result.](Images/Validation02.png)
+
+<br>
+
+## Output
+
+Interactive view from the terminal for the various steps executed in the Streamlit application to conduct financial trasactions to transfer money between senders and received and verify the integrity of the data in the ledger.
+
+![A screenshot of the result.](Images/output.png)
